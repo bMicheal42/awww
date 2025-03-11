@@ -4,6 +4,7 @@ alerta_webui/node_modules/
 
 alerta_webui/.git
 alerta_api/.git
+pg-data/
 
 # Logs
 logs
