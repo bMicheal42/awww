@@ -1,3 +1,10 @@
+.idea/
+alerta_webui/node_modules/
+.DS_Store/
+
+alerta_webui/.git
+alerta_api/.git
+
 # Logs
 logs
 *.log
